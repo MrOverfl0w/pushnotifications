@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299922749442",
+    "firebase_url": "https://prueba-f82bb.firebaseio.com",
+    "project_id": "prueba-f82bb",
+    "storage_bucket": "prueba-f82bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299922749442:android:418526c68cee4650f1cf1b",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299922749442-9copsqp20ku61ol3jbj683hipaovdl2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq0nhS95jsEu4SWn0vEIKRTPskOLG_YNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299922749442-9copsqp20ku61ol3jbj683hipaovdl2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
